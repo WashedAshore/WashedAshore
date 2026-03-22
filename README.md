@@ -6,7 +6,7 @@
 - 😄 Pronouns: LMFAO
 - ⚡ Fun fact: you will die one day
 side projects
-- https://www.Cryptoforge.replit.app https://www.herbalwisdom.app
+- https://Cryptoforge.replit.app https://www.herbalwisdom.app
 <!---
 WashedAshore/WashedAshore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
